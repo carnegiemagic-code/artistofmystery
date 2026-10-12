@@ -70,6 +70,7 @@ PAINTINGS = {
         ("Hats-blackstonesmall.jpg", "Harry Blackstone Sr.", "", "Not for sale"),
         ("Hats-hermannsmall.jpg", "Alexander Herrmann", "", "Not for sale"),
         ("Hats-IMG_0006.jpg", "Harry Anderson", "", "Private collection"),
+        ("Hats-dante.jpg", "DANTE in Acrylics", "", ""),
     ],
     "beyond": [
         ("art2-poe.jpg", "Edgar Allan Poe", "", ""),
@@ -95,8 +96,8 @@ GALLERIES = [
      "Deception</em>. Cesareo Pelaez performing the Linking Rings is done in a Cubist style, and the Lance Burton "
      "is Dean's take on an early publicity photo."),
     ("hats", "The Magic Hats",
-     "A series of magicians in their hats, and every hat is different: Houdini, Kellar, Blackstone, Herrmann and "
-     "Harry Anderson. None of the hat paintings are for sale."),
+     "A series of magicians in their hats, and every hat is different: Houdini, Kellar, Blackstone, Herrmann, "
+     "Harry Anderson and Dante. None of the hat paintings are for sale."),
     ("beyond", "Beyond Magic",
      "Now and then Dean paints something that has nothing to do with magic. The oldest piece here is the Boxers, "
      "painted when he was in high school. The Ukraine Girl is the first in a series."),
