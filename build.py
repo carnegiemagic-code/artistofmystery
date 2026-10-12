@@ -185,7 +185,7 @@ def build():
       <p>Most of the paintings are acrylic. There are also watercolors and some pen and ink drawings.
       Every piece is an original, not a copy and not a print. Dean's magic paintings have appeared on
       magazine covers, including <em>Elan</em> and <em>MAGIC</em>, and inside books on the history of magic.</p>
-      <p>Some paintings are available, and Dean takes the occasional commission. To ask about a piece,
+      <p>Some paintings are available in limited edition prints, and Dean takes the occasional commission. To ask about a piece,
       email <a href="mailto:{EMAIL}">{EMAIL}</a>.</p>
     </div>
     <div class="links">
