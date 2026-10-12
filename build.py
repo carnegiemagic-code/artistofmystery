@@ -70,7 +70,7 @@ PAINTINGS = {
         ("Hats-blackstonesmall.jpg", "Harry Blackstone Sr.", "", "Not for sale"),
         ("Hats-hermannsmall.jpg", "Alexander Herrmann", "", "Not for sale"),
         ("Hats-IMG_0006.jpg", "Harry Anderson", "", "Private collection"),
-        ("Hats-dante.jpg", "DANTE in Acrylics", "", ""),
+        ("Hats-dante.jpg", "DANTE in Acrylics", "", "Not for sale"),
     ],
     "beyond": [
         ("art2-poe.jpg", "Edgar Allan Poe", "", ""),
