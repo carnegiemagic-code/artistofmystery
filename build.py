@@ -30,7 +30,7 @@ PAINTINGS = {
         ("MagicArt-youngharry.jpg", "Young Houdini", "", "Private collection"),
         ("MagicArt-dantesm.jpg", "Dante", "", "Private collection"),
         ("MagicArt-IMG_0949.jpg", "Dante, No Cigar!", "11 x 14", ""),
-        ("MagicArt-cardinismall.jpg", "Cardini", "", "Private collection"),
+        ("MagicArt-cardinismall.jpg", "Cardini", "8 x 10", "Cover of Elan Art Magazine (2006) and MAGIC Magazine (2007)"),
         ("MagicArt-c1.jpg", "Cardini", "", "Private collection"),
         ("MagicArt-photochungsm.jpg", "Chung Ling Soo", "16 x 20", ""),
         ("MagicArt-thurston.jpg", "Thurston, Colors", "16 x 20", "Private collection"),
