@@ -50,7 +50,7 @@ PAINTINGS = {
         ("MagicArt-fumanchusmall.jpg", "Fu Manchu", "22 x 28", ""),
         ("MagicArt-legrand.jpg", "Marco the Magi", "", "Private collection"),
         ("MagicArt-marco-brown.jpg", "Marco the Magi, Brown", "16 x 20", ""),
-        ("NewArt-photo.jpg", "Marco the Magi, Linking Rings", "16 x 20", "Not for sale"),
+        ("NewArt-photo.jpg", "Marco the Magi, Linking Rings", "16 x 20", ""),
         ("MagicArt-lgd.jpg", "Le Grand David", "", "Private collection"),
         ("MagicArt-dennyhaney-baby.jpg", "Denny Haney & Baby", "", "Private collection"),
         ("MagicArt-rickyjay.jpg", "Ricky Jay", "", "Private collection"),
