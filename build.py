@@ -50,6 +50,7 @@ PAINTINGS = {
         ("MagicArt-fumanchusmall.jpg", "Fu Manchu", "22 x 28", ""),
         ("MagicArt-legrand.jpg", "Marco the Magi", "", "Private collection"),
         ("MagicArt-marco-brown.jpg", "Marco the Magi, Brown", "16 x 20", ""),
+        ("NewArt-photo.jpg", "Marco the Magi, Linking Rings", "16 x 20", "Not for sale"),
         ("MagicArt-lgd.jpg", "Le Grand David", "", "Private collection"),
         ("MagicArt-dennyhaney-baby.jpg", "Denny Haney & Baby", "", "Private collection"),
         ("MagicArt-rickyjay.jpg", "Ricky Jay", "", "Private collection"),
@@ -66,7 +67,6 @@ PAINTINGS = {
         ("MagicArt-pt-2026.jpg", "P&T 2026 Update", "", ""),
         ("MagicArt-c-angel.jpg", "Criss Angel", "16 x 20", ""),
         ("MagicArt-criss-angel-2.jpg", "Criss Angel 2", "", ""),
-        ("NewArt-photo.jpg", "Cesareo Pelaez, Linking Rings", "", "Not for sale"),
         ("MagicArt-ballv.jpg", "Ball Vase", "11 x 14", "Private collection"),
         ("MagicArt-IMG_1098.jpg", "Matisse Vase", "11 x 14", "Private collection"),
         ("MagicArt-IMG_1099.jpg", "Matisse Split Vase", "11 x 14", ""),
@@ -103,7 +103,7 @@ GALLERIES = [
      "Dean's paintings of the great magicians, in styles that run from abstract caricature to something closer "
      "to impressionism. The Cardini has appeared on the covers of three different magazines, and the Dante on two "
      "more and inside a third. The David Devant and Harry Blackstone Sr. both appear in the book <em>The Art of "
-     "Deception</em>. Cesareo Pelaez performing the Linking Rings is done in a Cubist style, and the Lance Burton "
+     "Deception</em>. Marco the Magi performing the Linking Rings is done in a Cubist style, and the Lance Burton "
      "is Dean's take on an early publicity photo."),
     ("hats", "The Magic Hats",
      "A series of magicians in their hats, and every hat is different: Houdini, Kellar, Blackstone, Herrmann, "
