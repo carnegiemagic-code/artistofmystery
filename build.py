@@ -26,6 +26,7 @@ PAINTINGS = {
         ("MagicArt-IMG_0382.jpg", "Houdini in Chains", "16 x 20", ""),
         ("MagicArt-houdinistainedglass.jpg", "Houdini, Stained Glass", "16 x 20", ""),
         ("MagicArt-houdini-copy.jpg", "Houdini, Red", "22 x 28", ""),
+        ("MagicArt-houdini-blue.jpg", "Houdini, Blue", "16 x 20", ""),
         ("MagicArt-IMG_0950.jpg", "Houdini, Green", "", "Private collection"),
         ("MagicArt-youngharry.jpg", "Young Houdini", "", "Private collection"),
         ("MagicArt-dantesm.jpg", "Dante", "", "Private collection"),
