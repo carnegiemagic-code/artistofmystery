@@ -75,12 +75,12 @@ PAINTINGS = {
         ("MagicArt-straitjacket.jpg", "Carnegie Steel Straitjacket", "", ""),
     ],
     "hats": [
-        ("Hats-houdinihat1.jpg", "Houdini", "", "Not for sale"),
-        ("Hats-IMG_0013.jpg", "Kellar", "", "Not for sale"),
-        ("Hats-blackstonesmall.jpg", "Harry Blackstone Sr.", "", "Not for sale"),
-        ("Hats-hermannsmall.jpg", "Alexander Herrmann", "", "Not for sale"),
+        ("Hats-houdinihat1.jpg", "Houdini", "", ""),
+        ("Hats-IMG_0013.jpg", "Kellar", "", ""),
+        ("Hats-blackstonesmall.jpg", "Harry Blackstone Sr.", "", ""),
+        ("Hats-hermannsmall.jpg", "Alexander Herrmann", "", ""),
         ("Hats-IMG_0006.jpg", "Harry Anderson", "", "Private collection"),
-        ("Hats-dante.jpg", "DANTE in Acrylics", "", "Not for sale"),
+        ("Hats-dante.jpg", "DANTE in Acrylics", "", ""),
     ],
     "beyond": [
         ("art2-poe.jpg", "Edgar Allan Poe", "", ""),
@@ -109,7 +109,7 @@ GALLERIES = [
      "is Dean's take on an early publicity photo."),
     ("hats", "The Magic Hats",
      "A series of magicians in their hats, and every hat is different: Houdini, Kellar, Blackstone, Herrmann, "
-     "Harry Anderson and Dante. None of the hat paintings are for sale."),
+     "Harry Anderson and Dante."),
     ("beyond", "Beyond Magic",
      "Now and then Dean paints something that has nothing to do with magic. The oldest piece here is the Boxers, "
      "painted when he was in high school. The Ukraine Girl is the first in a series."),
