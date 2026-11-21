@@ -91,6 +91,7 @@ PAINTINGS = {
         ("art2-bucket.jpg", "Buckethead", "", "Private collection"),
         ("art2-flowersforyou.jpg", "Flowers", "", "Private collection"),
         ("art2-bouquet-blue-glass.jpg", "Bouquet In Blue Glass", "16 x 20", ""),
+        ("art2-ball-of-flowers.jpg", "Ball of Flowers", "", ""),
         ("art2-IMG_0178_2.jpg", "Winter", "", "Private collection"),
         ("art2-abstractdac.jpg", "Abstract", "", ""),
         ("art2-beforeafter.jpg", "Fishbowl", "", ""),
