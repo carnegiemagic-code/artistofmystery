@@ -38,6 +38,7 @@ PAINTINGS = {
         ("MagicArt-Thurston2.jpg", "Thurston", "", "Private collection"),
         ("MagicArt-blackst.jpg", "Blackstone, Profile", "16 x 20", ""),
         ("MagicArt-b1.jpg", "Blackstone Sr.", "", "Not for sale"),
+        ("MagicArt-blackstone5.jpg", "Blackstone 5", "", ""),
         ("MagicArt-herrmanndevil.jpg", "Herrmann and the Devil", "16 x 20", ""),
         ("MagicArt-kellarhat.jpg", "Harry Kellar", "", "Not for sale"),
         ("MagicArt-rh.jpg", "Robert-Houdin", "22 x 28", ""),
