@@ -37,6 +37,7 @@ PAINTINGS = {
         ("MagicArt-thurston.jpg", "Thurston, Colors", "16 x 20", "Private collection"),
         ("MagicArt-Thurston2.jpg", "Thurston, Green", "", "Private collection"),
         ("MagicArt-thurston-red.jpg", "Thurston, Red", "", ""),
+        ("MagicArt-thurston-sawing.jpg", "Thurston Sawing, 1997", "", "Private collection"),
         ("MagicArt-blackst.jpg", "Blackstone, Profile", "16 x 20", ""),
         ("MagicArt-b1.jpg", "Blackstone Sr.", "", "Not for sale"),
         ("MagicArt-blackstone5.jpg", "Blackstone 5", "", ""),
