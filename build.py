@@ -64,6 +64,7 @@ PAINTINGS = {
         ("MagicArt-pt.jpg", "Penn & Teller", "", "Private collection"),
         ("MagicArt-pt-2026.jpg", "P&T 2026 Update", "", ""),
         ("MagicArt-c-angel.jpg", "Criss Angel", "16 x 20", ""),
+        ("MagicArt-criss-angel-2.jpg", "Criss Angel 2", "", ""),
         ("NewArt-photo.jpg", "Cesareo Pelaez, Linking Rings", "", "Not for sale"),
         ("MagicArt-ballv.jpg", "Ball Vase", "11 x 14", "Private collection"),
         ("MagicArt-IMG_1098.jpg", "Matisse Vase", "11 x 14", "Private collection"),
