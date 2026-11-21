@@ -52,7 +52,6 @@ PAINTINGS = {
         ("MagicArt-sly.jpg", "Slydini", "22 x 28", ""),
         ("MagicArt-rich.jpg", "Richiardi", "16 x 20", ""),
         ("MagicArt-henning.jpg", "Doug Henning", "22 x 28", ""),
-        ("MagicArt-000_0191.jpg", "Henning, Caricature", "16 x 20", "Private collection"),
         ("MagicArt-000_0190.jpg", "Henning, Planets", "", "Private collection"),
         ("MagicArt-Copperfield.jpg", "Copperfield", "22 x 28", "Private collection"),
         ("MagicArt-davec2.jpg", "Copperfield", "", "Not for sale"),
